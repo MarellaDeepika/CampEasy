@@ -1,4 +1,4 @@
-# VanLife - Van Booking Application
+# CampEasy - Van Booking Application
 
 ## Overview
 VanLife is a web application built with React for booking tour vans. It includes a responsive design, user authentication, and a comprehensive booking system. Users can search for vans, make reservations, and manage their bookings.

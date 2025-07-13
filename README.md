@@ -1,7 +1,7 @@
 # CampEasy - Van Booking Application
 
 ## Overview
-VanLife is a web application built with React for booking tour vans. It includes a responsive design, user authentication, and a comprehensive booking system. Users can search for vans, make reservations, and manage their bookings.
+CampEasy is a web application built with React for booking tour vans. It includes a responsive design, user authentication, and a comprehensive booking system. Users can search for vans, make reservations, and manage their bookings.
 
 ## Features
 - **Van Search:** Find available vans based on location and features.
@@ -10,7 +10,7 @@ VanLife is a web application built with React for booking tour vans. It includes
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
 ## Live Demo
-You can access the live demo of this project at [VanLife Live Demo](vanvoyage3.netlify.app).
+You can access the live demo of this project at [CampEasy Live Demo](vanvoyage3.netlify.app).
 
 ## Technologies Used
 - **React:** Frontend framework for building the user interface.
@@ -20,8 +20,8 @@ You can access the live demo of this project at [VanLife Live Demo](vanvoyage3.n
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YaseenBashaT/vanLife.git
-cd vanLife
+git clone [https://github.com/MarellaDeepika/CampEasy]
+cd CampEasy
 ```
 
 ### Install Required Packages
